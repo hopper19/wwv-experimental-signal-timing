@@ -1,2 +1,2 @@
 # WWV/WWVH Experimental Signal Timing Project
-WWV/WWVH Experimental Signal Timing Project
+The goal of this project is to develop an algorithm and code that can most accurately determine the timing of the pseudorandom Gaussian white noise sequences and the chirps in a received signal file. Timing here is defined as the relative amount of time that has elapsed from a defined point in the first pseudorandom Gaussian white noise burst to a defined point on each subsequent feature.
